@@ -1,3 +1,51 @@
+⭐️ Contents & Code ⭐️
+⌨️ (00:00:00) Introduction
+⌨️ (00:00:34) Lesson 1 - HTML and CSS Basics
+    https://jovian.com/sydney/html-and-cs...
+⌨️ (02:14:15) Lesson 2 - Advanced HTML and CSS
+    https://jovian.com/aakashns/advanced-...
+⌨️ (04:42:24) Assignment 1 - Design Mockup to Web Page
+    https://jovian.com/aakashns/design-mo...
+⌨️ (06:47:59) Lesson 3 - Version Control and Cloud Deployment
+    https://jovian.com/sydney/version-con...
+⌨️ (08:59:42) Lesson 4 - Responsive Design and CSS Flexbox
+    https://jovian.com/aakashns/responsiv...
+⌨️ (11:32:24) Assignment 2 - Mobile-First Responsive Web Design
+    https://jovian.com/aakashns/mobile-fi...
+⌨️ (12:31:43) Lesson 5 - Bootstrap CSS Framework
+    https://jovian.com/aakashns/bootstrap...
+⌨️ (14:56:51) Assignment 3 - Build a Scientific Calculator
+    https://jovian.com/aakashns/build-a-s...
+⌨️ (16:34:34) Lesson 6 - Express Web Application Framework
+    https://jovian.com/sydney/express-web...
+⌨️ (18:30:21) Project - Build Your Personal Website
+    https://jovian.com/aakashns/build-you...
+⌨️ (19:00:35) Course Recap
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Lessons:
 0:00 Intro
 1:02 1. HTML Basics
@@ -18,3 +66,34 @@ Lessons:
 5:33:49 16. Finish the Project
 6:07:46 17. More CSS Features
 6:30:21 Outro
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
